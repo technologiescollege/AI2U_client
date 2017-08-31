@@ -3,6 +3,7 @@ control interface for AI2U, student side.
 
 **Teacher/server version**: https://github.com/technologiescollege/AI2U_server
 
+
 Liens
 -----
 [piloter un mBot dans AppInventor](http://www.pedagogie.ac-nantes.fr/technologies-et-sciences-des-ingenieurs/documentation/didacticiels-tutoriels/piloter-un-mbot-grace-a-appinventor-1018977.kjsp?RH=1333492036996) 
@@ -13,9 +14,9 @@ Liens
 
 [AppInventor : travail collaboratif, séparer les tâches d'un projet puis fusionner en une seule application](http://www.pedagogie.ac-nantes.fr/technologies-et-sciences-des-ingenieurs/documentation/didacticiels-tutoriels/appinventor-travail-collaboratif-1057433.kjsp?RH=1333492036996)
 
+
 Video
 -----
-
-[](https://vimeo.com/231939866)
+**[](https://vimeo.com/231939866)**
 
 ![Video](https://github.com/technologiescollege/AI2U_client/blob/master/AI2U/ai2u.jpg)
