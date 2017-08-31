@@ -13,4 +13,7 @@ Liens
 
 [AppInventor : travail collaboratif, séparer les tâches d'un projet puis fusionner en une seule application](http://www.pedagogie.ac-nantes.fr/technologies-et-sciences-des-ingenieurs/documentation/didacticiels-tutoriels/appinventor-travail-collaboratif-1057433.kjsp?RH=1333492036996)
 
-[Video]![Video](https://github.com/technologiescollege/AI2U_client/blob/master/AI2U/ai2u.jpg)(https://vimeo.com/231939866)
+Video
+-----
+
+[]![Video](https://github.com/technologiescollege/AI2U_client/blob/master/AI2U/ai2u.jpg)(https://vimeo.com/231939866)
