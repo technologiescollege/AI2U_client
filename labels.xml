@@ -16,9 +16,9 @@
   <Labels>
     <Popup type="TComboBox">
       <Items>
-        <FR>Le fichier de lancement ne peut pas être créé.\Serveur non défini, compléter le menu 'Outils'.\Interface réalisée par Sébastien Canet, juillet 2017 - v1\IP du serveur mal défini.</FR>
-        <EN>Impossible to write on disk.\Server undefined, complete 'Tools' menu.\Software created by Sébastien Canet, july 2017 - v1\Server IP defined uncorrectly.</EN>
-		<ES>Impossible to write on disk.\Server undefined, complete 'Tools' menu.\Software creado por Sébastien Canet, julio 2017 - v1\Server IP defined uncorrectly.</ES>
+        <FR>Le fichier de lancement ne peut pas être créé.\Serveur non défini, compléter le menu 'Outils'.\Interface réalisée par Sébastien Canet, juillet 2018 - v1.4.6\IP du serveur mal défini.</FR>
+        <EN>Impossible to write on disk.\Server undefined, complete 'Tools' menu.\Software created by Sébastien Canet, july 2018 - v1.4.6\Server IP defined uncorrectly.</EN>
+		<ES>Impossible to write on disk.\Server undefined, complete 'Tools' menu.\Software creado por Sébastien Canet, julio 2018 - v1.4.6\Server IP defined uncorrectly.</ES>
       </Items>
     </Popup>
     <InterfaceAI2U type="TFenetrePrincipale">
@@ -125,7 +125,14 @@
 			<EN>Initialise p&arameters</EN>
 			<ES>Inicializar los p&arametros</ES>
 		  </Caption>
-		</Init>		
+		</Init>
+		<Scripts type="TMenuItem">
+		  <Caption>
+			<FR>Voir la fenêtre de scripts</FR>
+			<EN>Open script dialog box</EN>
+			<ES>Open script dialog box</ES>
+		  </Caption>
+		</Scripts>		
 		<Server type="TMenuItem">
 		  <Caption>
 			<FR>Définir le &serveur</FR>
